@@ -21,7 +21,7 @@
 
 ## Conclusions
 - The 3 main factors which are contributing to the same price are Living area, Overall building quality, property condition.
-- TThe compnay should also have close check on the age of the property and type of the dwelling unit.
+- The compnay should also have close check on the age of the property and type of the dwelling unit.
 - Location-NoRidge,Nridght,Stonebr are good locations to consider for the investment.
 
 
